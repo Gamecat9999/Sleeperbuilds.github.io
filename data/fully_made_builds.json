@@ -1,0 +1,22 @@
+[
+  {
+    "title": "OptiPlex 780 Sleeper Build",
+    "case": "Dell OptiPlex 780",
+    "image": "images/jpg1.jpg",
+    "tags": ["Retro Shell", "Gaming Heart", "Flip-Ready", "Budget"],
+    "before_image": "images/optiplex-780-before.jpg",
+    "after_image": "images/jpg1.jpg",
+    "parts": [
+      {"name": "NVIDIA GT 1030 Low Profile GPU"},
+      {"name": "Intel Core 2 Quad Q9650"},
+      {"name": "8GB DDR3 RAM"},
+      {"name": "500GB SATA SSD"},
+      {"name": "PCIe Wi-Fi/Bluetooth Card"}
+    ],
+    "performance": "60+ FPS in Fortnite, 100+ FPS in CS:GO, 80+ FPS in Valorant (720–1080p)",
+    "cost": "$120 (used parts)",
+    "resale": "$180–$250 (flip-ready)",
+    "story": "The Office PC That Games — This Dell OptiPlex 780 looks like a relic from a 2010 cubicle, but inside it’s a budget gaming beast. With a low-profile GT 1030, Core 2 Quad, SSD, and Wi-Fi, it’s perfect for first-time gamers, streamers, or a quick flip. Retro shell, gaming heart!",
+    "link": "https://www.ebay.com/itm/optiplex-780-sleeper-build-demo" 
+  }
+]

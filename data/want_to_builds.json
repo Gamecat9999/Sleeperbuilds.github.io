@@ -1,0 +1,105 @@
+[
+  {
+    "title": "The Beige Beast",
+    "case": "Dell Dimension E510",
+    "image": "images/jpg2.webp",
+    "tags": ["Under $300", "Retro Sleeper", "Budget", "Flip-Ready"],
+    "parts": [
+      {"name": "Core i5-4570", "link": "https://www.ebay.com/sch/i.html?_nkw=i5-4570"},
+      {"name": "GTX 1650 Low Profile", "link": "https://www.ebay.com/sch/i.html?_nkw=gtx+1650+low+profile"},
+      {"name": "16GB DDR3 RAM", "link": "https://www.ebay.com/sch/i.html?_nkw=16gb+ddr3+ram"},
+      {"name": "512GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=512gb+ssd"},
+      {"name": "EVGA 500W PSU", "link": "https://www.ebay.com/sch/i.html?_nkw=evga+500w+psu"}
+    ],
+    "performance": "1080p / 60+ FPS in Fortnite, Valorant, LoL",
+    "cost": "$280",
+    "resale": "$450 (potential flip)",
+    "purpose": "Budget Gaming, Flipping"
+  },
+  {
+    "title": "The ThinkBox 1080",
+    "case": "Lenovo M82 SFF",
+    "image": "images/jpg3.webp",
+    "tags": ["Creator", "Small Form Factor", "Budget", "Flip-Ready"],
+    "parts": [
+      {"name": "i7-3770", "link": "https://www.ebay.com/sch/i.html?_nkw=i7-3770"},
+      {"name": "GT 1030", "link": "https://www.ebay.com/sch/i.html?_nkw=gt+1030"},
+      {"name": "16GB RAM", "link": "https://www.ebay.com/sch/i.html?_nkw=16gb+ddr3+ram"},
+      {"name": "256GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=256gb+ssd"},
+      {"name": "1TB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=1tb+ssd"}
+    ],
+    "performance": "1080p / 60+ FPS in Fortnite, Minecraft, LoL",
+    "cost": "$320",
+    "resale": "$475 (potential flip)",
+    "purpose": "Light Creator, Gaming, Flipping"
+  },
+  {
+    "title": "The Satellite Shell",
+    "case": "Dell XPS 400 tower",
+    "image": "images/jpg4.webp",
+    "tags": ["Retro Sci-Fi", "Mid-Tier", "Flippable"],
+    "parts": [
+      {"name": "RX 6400 Low Profile", "link": "https://www.ebay.com/sch/i.html?_nkw=rx+6400+low+profile"},
+      {"name": "Xeon X3470", "link": "https://www.ebay.com/sch/i.html?_nkw=xeon+x3470"},
+      {"name": "16GB DDR3", "link": "https://www.ebay.com/sch/i.html?_nkw=16gb+ddr3+ram"},
+      {"name": "512GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=512gb+ssd"},
+      {"name": "Modular 450W PSU", "link": "https://www.ebay.com/sch/i.html?_nkw=modular+450w+psu"}
+    ],
+    "performance": "Valorant, GTA V, Overwatch 2 @ 1080p / Medium",
+    "cost": "$310",
+    "resale": "$475",
+    "purpose": "Mid-Tier Gaming, Flipping"
+  },
+  {
+    "title": "BioRig 2.0",
+    "case": "HP Pavilion a6300f",
+    "image": "images/jpg5.webp",
+    "tags": ["Starter Mod", "Gamer-Ready", "Budget Sleeper"],
+    "parts": [
+      {"name": "GTX 1050 Ti", "link": "https://www.ebay.com/sch/i.html?_nkw=gtx+1050+ti"},
+      {"name": "i5-4590", "link": "https://www.ebay.com/sch/i.html?_nkw=i5-4590"},
+      {"name": "12GB DDR3", "link": "https://www.ebay.com/sch/i.html?_nkw=12gb+ddr3+ram"},
+      {"name": "256GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=256gb+ssd"},
+      {"name": "1TB HDD", "link": "https://www.ebay.com/sch/i.html?_nkw=1tb+hdd"},
+      {"name": "Stealth fans", "link": "https://www.ebay.com/sch/i.html?_nkw=stealth+fan"}
+    ],
+    "performance": "Minecraft, L4D2, BeamNG Drive",
+    "cost": "$280",
+    "resale": "Student/Modder Flip",
+    "purpose": "Starter Mod, Student Resale"
+  },
+  {
+    "title": "SharkSkin Stealth Rig",
+    "case": "Gateway DX4300",
+    "image": "images/jpg6.jpg",
+    "tags": ["AMD Build", "Silent Sleeper", "Emulation Beast"],
+    "parts": [
+      {"name": "GT 1030 Silent", "link": "https://www.ebay.com/sch/i.html?_nkw=gt+1030+silent"},
+      {"name": "Phenom II X6 1090T", "link": "https://www.ebay.com/sch/i.html?_nkw=phenom+ii+x6+1090t"},
+      {"name": "16GB DDR3", "link": "https://www.ebay.com/sch/i.html?_nkw=16gb+ddr3+ram"},
+      {"name": "480GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=480gb+ssd"},
+      {"name": "500W Bronze PSU", "link": "https://www.ebay.com/sch/i.html?_nkw=500w+bronze+psu"}
+    ],
+    "performance": "Valorant, Roblox, emulators",
+    "cost": "$260",
+    "resale": "Silent sleeper with shark fins and bite",
+    "purpose": "Silent Gaming, Emulation"
+  },
+  {
+    "title": "CoinStack Compact",
+    "case": "Fujitsu Esprimo Q Series",
+    "image": "images/jpg7.webp",
+    "tags": ["Mini PC", "Integrated Graphics", "Hidden Power"],
+    "parts": [
+      {"name": "Integrated UHD 630 or Vega 8", "link": "https://www.ebay.com/sch/i.html?_nkw=uhd+630+vega+8"},
+      {"name": "Ryzen 5 3400G / i3-10100T", "link": "https://www.ebay.com/sch/i.html?_nkw=ryzen+5+3400g+i3-10100t"},
+      {"name": "16GB DDR4", "link": "https://www.ebay.com/sch/i.html?_nkw=16gb+ddr4+ram"},
+      {"name": "NVMe 500GB SSD", "link": "https://www.ebay.com/sch/i.html?_nkw=nvme+500gb+ssd"},
+      {"name": "Wi-Fi, Bluetooth, mini LED strip", "link": "https://www.ebay.com/sch/i.html?_nkw=mini+led+strip+wifi+bluetooth"}
+    ],
+    "performance": "Rocket League, Stardew Valley, Among Us",
+    "cost": "$320",
+    "resale": "$500+ (compact media/gaming box)",
+    "purpose": "Mini PC, Media, Light Gaming"
+  }
+]
